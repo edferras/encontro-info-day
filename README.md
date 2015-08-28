@@ -26,4 +26,4 @@ Somos dois amigos motivados a compartilhar informação e disseminar conheciment
 
 ## Licença
 
-[MIT License](http://edferras.mit-license.org)
+[MIT Licença](http://edferras.mit-license.org)
